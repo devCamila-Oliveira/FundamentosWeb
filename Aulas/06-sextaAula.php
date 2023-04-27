@@ -23,7 +23,7 @@
         $x =1;
 
         while($x <= 5){
-            echo "<br> O numero eh $x <br>";
+            echo "<br> O numero e $x <br>";
             $x++;
         }
     ?>
