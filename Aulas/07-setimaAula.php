@@ -17,7 +17,7 @@
     $servername = "localhost";
     $username = "root";
     $password = " ";
-    $dbname = "si3a";
+    $dbname = "phpTest";
 
     $conn = mysqli_connect($servername, $username, $password, $dbname);
 
